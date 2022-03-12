@@ -1,3 +1,5 @@
+[Le fichier d'apprentissage étant lourd, merci de me contacter afin que je vous le transmette]
+
 Groupe 3 :
     BECHET Paul
     CASSAGNE Manon
@@ -12,4 +14,4 @@ Le code se trouve à l'origine du dossier de rendu (pour éviter les erreurs de 
 Dans le dossier RESULTATS, on trouve le fichier csv donné, avec, en plus, notre prédiction
 sur la fraude ou non de la transaction.
 
-Le fichier d'apprentissage étant lourd, merci de me contacter afin que je vous le transmette
+
